@@ -1,5 +1,5 @@
 <h1 align="center">Hello, My Name Is Stephan Paul</h1>
-<h3 align="center">An lifelong learner and passionate web-dev from Alberta, Canada</h3>
+<h3 align="center">A lifelong learner and passionate web-dev from Alberta, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephan-pauld&label=Profile%20views&color=0e75b6&style=flat" alt="stephan-pauld" /> </p>
 
