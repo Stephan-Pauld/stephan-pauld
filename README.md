@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephan-pauld&label=Profile%20views&color=0e75b6&style=flat" alt="stephan-pauld" /> </p>
 
-- ⛏️ I’m currently working on [Dota 2 Timer](https://github.com/Stephan-Pauld/Dota2Timer)
+- ⛏️ I’m currently working on some Contract Work
 
 - 👨‍💻 All of my projects are available at [https://github.com/Stephan-Pauld?tab=repositories](https://github.com/Stephan-Pauld?tab=repositories)
 
