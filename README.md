@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephan-pauld&label=Profile%20views&color=0e75b6&style=flat" alt="stephan-pauld" /> </p>
 
-- ⛏️ I’m currently working on some Contract Work
+- ⛏️ I’m currently working as a full time web developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/Stephan-Pauld?tab=repositories](https://github.com/Stephan-Pauld?tab=repositories)
 
 - 📫 How to reach me **stephanpauld@gmail.com**
-
-- 📄 My Resume [https://www.canva.com/design/DAETP1a5MFk/OxV8yKgKfnGq385KXJdr0g/view?utm_content=DAETP1a5MFk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](https://www.canva.com/design/DAETP1a5MFk/OxV8yKgKfnGq385KXJdr0g/view?utm_content=DAETP1a5MFk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
